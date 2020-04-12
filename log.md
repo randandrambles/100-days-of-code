@@ -22,6 +22,6 @@
 
 **Today's Progress**: Created About me fragment & splash screen for Android complain portal
 
-**Thoughts:** Today I started work to connect my complain portal with Firebase again.I choose Firebase because it don't require typical coding like MySQL. It was little bit challenging but in the end I succeeded.
+**Thoughts:** Done with icon process, Created a about me fragment to show details about developer and created a 3 seconds splash screen.
 .
 **Link to work:** [Github link] (https://github.com/randandrambles/Android-ComplainPortal)
