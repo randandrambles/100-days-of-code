@@ -16,3 +16,12 @@
 **Thoughts:** Today I started work to connect my complain portal with Firebase again.I choose Firebase because it don't require typical coding like MySQL. It was little bit challenging but in the end I succeeded.
 .
 **Link to work:** [Github link] (https://github.com/randandrambles/Android-ComplainPortal)
+
+
+### Day 3: April 12, 2020
+
+**Today's Progress**: Created About me fragment & splash screen for Android complain portal
+
+**Thoughts:** Today I started work to connect my complain portal with Firebase again.I choose Firebase because it don't require typical coding like MySQL. It was little bit challenging but in the end I succeeded.
+.
+**Link to work:** [Github link] (https://github.com/randandrambles/Android-ComplainPortal)
